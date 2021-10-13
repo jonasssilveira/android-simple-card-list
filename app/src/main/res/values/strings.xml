@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Viagens</string>
+    <string name="pacote_viagem_name">Especiais</string>
+    <string name="pacote_pais_name">Brasil</string>
+    <string name="s_o_paulo">São Paulo</string>
+    <string name="_2_dias">2 dias</string>
+    <string name="banner_inicial_pacotes">Banner inicial Pacotes</string>
+    <string name="country_name">Brasil</string>
+</resources>
